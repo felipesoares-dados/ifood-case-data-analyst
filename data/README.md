@@ -1,4 +1,4 @@
-## Dicionário de dados
+# Dicionário de dados
 
 Dados pessoais
 
